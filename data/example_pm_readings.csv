@@ -1,0 +1,6 @@
+timestamp_seconds,pm25_ug_m3,pm10_ug_m3,condition
+0,8.4,14.2,indoor baseline
+300,9.1,15.0,indoor baseline
+600,12.7,21.5,open window
+900,18.3,30.2,outdoor air event
+1200,10.5,17.4,stabilized indoor

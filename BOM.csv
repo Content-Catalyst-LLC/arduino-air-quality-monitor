@@ -1,0 +1,9 @@
+Component,Example,Qty,Notes
+Arduino Uno,ATmega328P,1,Arduino Nano also acceptable
+Particulate Matter Sensor,PMS5003 or SDS011,1,Choose supported sensor
+Jumper Wires,Male/Female,10,As needed
+Breadboard,Standard,1,Optional depending on assembly method
+USB Cable,Arduino compatible,1,For programming and power
+Enclosure,Vented housing,1,Optional for deployment
+Display,16x2 LCD or OLED,1,Optional
+SD Card Module,Standard SPI module,1,Optional for logging
